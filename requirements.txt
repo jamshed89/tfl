@@ -1,2 +1,4 @@
-python streamlit run app.py
-
+streamlit
+pandas
+requests
+openpyxl
